@@ -1,4 +1,9 @@
 
+
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Nic - Database Administrator">
+</div>
+
 <div align="center">
 
 # 💜 Hello, I'm Nic!
