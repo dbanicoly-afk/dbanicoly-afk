@@ -50,7 +50,7 @@ Sou Database Administrator (DBA), apaixonada por tecnologia, administração de 
 
 <div align="center">
 
-![Nic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbanicoly-afk&show_icons=true&theme=tokyonight&hide_border=true)
+![Nic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbanicoly-afk&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbanicoly-afk&layout=compact&theme=tokyonight&hide_border=true)
 
