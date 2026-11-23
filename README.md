@@ -19,6 +19,16 @@
 
 ---
 
+
+<div align="center">
+
+<img src="./terminal-sql-nic.gif" width="85%" alt="Terminal SQL animado da Nic">
+
+</div>
+
+<br>
+
+
 ## 💜 Sobre mim
 
 ```sql
