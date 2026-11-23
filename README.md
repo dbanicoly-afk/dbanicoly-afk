@@ -132,6 +132,14 @@ Estou construindo meu portfólio com estudos, laboratórios e scripts relacionad
 
 <br>
 
+<h2 align="center">🐍 Minha jornada no GitHub</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dbanicoly-afk/dbanicoly-afk/output/cobrinha.svg" width="100%" alt="Cobrinha animada nas contribuições da Nic">
+
+</div>
+
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
