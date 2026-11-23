@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Nic | Administradora de Banco de Dados">
+<img src="./banner.png" width="100%" alt="Nic | Database Administrator">
 
 <br><br>
 
@@ -25,7 +25,7 @@
 SELECT
     'Nicoly Gavila' AS nome,
     'Nic' AS apelido,
-    'Administradora de Banco de Dados' AS profissao,
+    'Database Administrator' AS profissao,
     'SQL Server' AS tecnologia_principal,
     'Dados, Cloud e Automação' AS interesses,
     'Sempre aprendendo' AS mentalidade;
