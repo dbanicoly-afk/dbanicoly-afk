@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=750&lines=Administradora+de+Banco+de+Dados;Apaixonada+por+SQL+Server;Explorando+o+universo+Azure;Performance%2C+Dados+e+Automacao" alt="Apresentação animada">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=750&lines=Database+Administrator;Apaixonada+por+SQL+Server;Explorando+o+universo+Azure;Performance%2C+Dados+e+Automacao" alt="Apresentação animada">
 
 <br>
 
