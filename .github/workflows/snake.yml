@@ -1,0 +1,30 @@
+
+name: Cobrinha da Nic
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-cobrinha:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar cobrinha lilas e azul
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: dbanicoly-afk
+          outputs: |
+            dist/cobrinha.svg?color_snake=%23BD93F9&color_dots=%23111827,%23DBEAFE,%2393C5FD,%238B5CF6,%236D28D9
+
+      - name: Publicar animacao
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
